@@ -1,0 +1,45 @@
+body {
+    background-color: #e6f3ff;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+#inputContent{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+#taskList{
+    width: 50%;
+    margin:auto;
+}
+
+.container {
+    background-color: #f7fbff;
+    border-radius: 5px;
+    height: 25px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+span {
+    margin-left: 35px;
+}
+
+button {
+    float: right;
+    border-style: none;
+    background-color: #f7fbff;
+    font-size: large;
+}
+
+#submit{
+    background-color: #e6f3ff;
+    font-size: larger;
+}
+
+input {
+    width: 80%;
+}
+
